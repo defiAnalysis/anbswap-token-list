@@ -5,7 +5,7 @@
     "address": "0x9d1Ec8F92DAC785D8b1eBEa655013E5273cb8Df2",
     "chainId": 97,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/defiAnalysis/tokenList/master/icons/tomochain/0x9d1Ec8F92DAC785D8b1eBEa655013E5273cb8Df2.png"
+    "logoURI": "https://raw.githubusercontent.com/defiAnalysis/anbswap-token-list/main/src/tokens/icons/tomochain/0x9d1Ec8F92DAC785D8b1eBEa655013E5273cb8Df2.png"
   },
   {
     "name": "WBNB Token",
@@ -13,7 +13,7 @@
     "address": "0x094616F0BdFB0b526bD735Bf66Eca0Ad254ca81F",
     "chainId": 97,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/defiAnalysis/tokenList/master/icons/tomochain/0x094616F0BdFB0b526bD735Bf66Eca0Ad254ca81F.png"
+    "logoURI": "https://raw.githubusercontent.com/defiAnalysis/anbswap-token-list/main/src/tokens/icons/tomochain/0x094616F0BdFB0b526bD735Bf66Eca0Ad254ca81F.png"
   },
   {
     "name": "Binance Pegged BUSD",
@@ -21,7 +21,7 @@
     "address": "0xeD24FC36d5Ee211Ea25A80239Fb8C4Cfd80f12Ee",
     "chainId": 97,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/defiAnalysis/tokenList/master/icons/tomochain/0xeD24FC36d5Ee211Ea25A80239Fb8C4Cfd80f12Ee.png"
+    "logoURI": "https://raw.githubusercontent.com/defiAnalysis/anbswap-token-list/main/src/tokens/icons/tomochain/0xeD24FC36d5Ee211Ea25A80239Fb8C4Cfd80f12Ee.png"
   },
   {
     "name": "Binance Pegged ETH",
@@ -29,13 +29,13 @@
     "address": "0xBc2b74816597fF343fCaCAc5ED061C57E7F093bA",
     "chainId": 97,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/defiAnalysis/tokenList/master/icons/tomochain/tomochain/0xBc2b74816597fF343fCaCAc5ED061C57E7F093bA.png"
+    "logoURI": "https://raw.githubusercontent.com/defiAnalysis/anbswap-token-list/main/src/tokens/icons/tomochain/tomochain/0xBc2b74816597fF343fCaCAc5ED061C57E7F093bA.png"
   },{
     "name": "Binance Pegged Bitcoin",
     "symbol": "BTCB",
     "address": "0x6ce8dA28E2f864420840cF74474eFf5fD80E65B8",
     "chainId": 97,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/defiAnalysis/tokenList/master/icons/tomochain/0x6ce8dA28E2f864420840cF74474eFf5fD80E65B8.png"
+    "logoURI": "https://raw.githubusercontent.com/defiAnalysis/anbswap-token-list/main/src/tokens/icons/tomochain/0x6ce8dA28E2f864420840cF74474eFf5fD80E65B8.png"
   }
 ]

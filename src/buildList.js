@@ -17,7 +17,7 @@ module.exports = function buildList() {
       'patch': +parsed[ 2 ]
     },
     'tags': {},
-    'logoURI': 'https://raw.githubusercontent.com/defiAnalysis/tokenList/master/icons/tomochain/0x9d1Ec8F92DAC785D8b1eBEa655013E5273cb8Df2.png',
+    'logoURI': 'https://raw.githubusercontent.com/defiAnalysis/anbswap-token-list/main/src/tokens/icons/tomochain/0x9d1Ec8F92DAC785D8b1eBEa655013E5273cb8Df2.png',
     'keywords': [
       'anbswap',
       'default'
